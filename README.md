@@ -2,6 +2,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackpearlRZ" alt="blackpearlRZ" /></a> </p>
 
+--------------
+
 ## root:~$ ./whoami.sh
 >  Software engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton School](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson 
