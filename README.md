@@ -4,7 +4,6 @@
 
 --------------
 
-## root:~$ ./whoami.sh
 >  Software engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton School](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson 
 
