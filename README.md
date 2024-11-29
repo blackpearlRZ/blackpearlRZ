@@ -1,6 +1,6 @@
 # Hello, World! I'm _Chaimae Aafif_ 👋
 
-<img align="center" alt="coding-gif" width="550" src="https://github.com/blackpearlRZ/blackpearlRZ/blob/master/transparent_gitgif.gif">
+<img align="center" alt="coding-gif" width="600" src="https://github.com/blackpearlRZ/blackpearlRZ/blob/master/transparent_gitgif.gif">
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackpearlRZ" alt="blackpearlRZ" /></a> </p>
