@@ -7,6 +7,7 @@
 >  Software engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton School](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson 
 
+<img alt="coding-gif" width="400" src="https://github.com/blackpearlRZ/blackpearlRZ/main/transparent_gitgif.gif">
 
 
 <pre>
