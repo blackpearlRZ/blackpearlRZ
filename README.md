@@ -7,7 +7,7 @@
 >  Software engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton School](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson
 
-<pre >
+<pre align='left'>
 
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
@@ -26,7 +26,7 @@
 ╚═══════════════════════════════════════▣▣▣
 </pre>
 
-<img  alt="coding-gif" width="400" src="https://github.com/blackpearlRZ/blackpearlRZ/blob/master/transparent_gitgif.gif">
+<img  align="right" alt="coding-gif" width="400" src="https://github.com/blackpearlRZ/blackpearlRZ/blob/master/transparent_gitgif.gif">
 
 --------------------------
 
