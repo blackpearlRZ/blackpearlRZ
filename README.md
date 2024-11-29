@@ -2,10 +2,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackpearlRZ" alt="blackpearlRZ" /></a> </p>
 
---------------
+-----------------------
 
 >  Software engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton School](https://www.holbertonschool.com/) \
->  “First solve the problem, then write the code.” - John Johnson 
+>  “First solve the problem, then write the code.” - John Johnson
 
 <pre >
 
@@ -20,14 +20,15 @@
 ╔══╡ root:~$ echo $SKILLS ║════════▣▣▣
 ║
 ║  ▰ Bash, Vagrant, Git, Linux
-║  ▰ C, Python, HTML, CSS, JS, PHP  
+║  ▰ C, Python, HTML, CSS, JS, PHP , React 
 ║  ▰ MySQL
 ║
 ╚═══════════════════════════════════════▣▣▣
 </pre>
-<img  alt="coding-gif" width="400" src="transparent_gitgif.git">
 
---------------
+<img  alt="coding-gif" width="400" src="https://github.com/blackpearlRZ/blackpearlRZ/blob/master/transparent_gitgif.gif">
+
+--------------------------
 
 
 <p align="center">
