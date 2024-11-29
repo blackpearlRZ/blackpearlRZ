@@ -25,7 +25,7 @@
 ║
 ╚═══════════════════════════════════════▣▣▣
 </pre>
-<img  alt="coding-gif" width="400" src="https://github.com/blackpearlRZ/blackpearlRZ/blob/master/transparent_gitgif.gif">
+<img  alt="coding-gif" width="400" src="transparent_gitgif.git">
 
 --------------
 
