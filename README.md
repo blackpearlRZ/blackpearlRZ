@@ -2,7 +2,7 @@
 
 ## Github profil trophy 🏆 
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackpearlRZ" alt="blackpearlRZ-trophy" /></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=blackpearlRZ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 -----------------------
 
