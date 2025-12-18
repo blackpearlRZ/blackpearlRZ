@@ -2,9 +2,7 @@
 
 ## Github profil trophy 🏆 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=blackpearlRZ&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy-sigma.vercel.app/?username=blackpearlRZ&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 -----------------------
