@@ -2,7 +2,7 @@
 
 ## Github profil trophy 🏆 
 
-![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackpearlRZ&theme=default)
+
 
 
 -----------------------
@@ -48,6 +48,12 @@
 </p>
 
 ---------------
+![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackpearlRZ&theme=default)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blackpearlRZ&show_icons=true&hide=issues&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&hide_border=true&theme=dark" />
+</p>
 
 | [![blackpearlRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackpearlRZ&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) | [![blackpearlRZ's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) |
 
