@@ -49,8 +49,10 @@
 
 ---------------
 
-| [![blackpearlRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackpearlRZ&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) | [![blackpearlRZ's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) |
+| [![blackpearlRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackpearlRZ&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) | [![blackpearlRZ's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) |
 
+
+---------------
 
 <p align="center">
 	<img alt="blackpearlRZ's visitors" src="https://komarev.com/ghpvc/?username=blackpearlRZ&color=8c36db&style=flat&label=visitors" />
