@@ -2,11 +2,8 @@
 
 ## Github profil trophy 🏆 
 
-[![trophy](https://github-profile-trophy-sigma.vercel.app/?username=blackpearlRZ&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[(https://github-profile-trophy-sigma.vercel.app/?username=blackpearlRZ&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=blackpearlRZ&theme=default" />
-</p>
 
 
 
