@@ -3,6 +3,10 @@
 ## Github profil trophy 🏆 
 
 ![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackpearlRZ&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=blackpearlRZ&theme=default)
+![Followers](https://img.shields.io/github/followers/blackpearlRZ?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/blackpearlRZ?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Dynamic-blue?style=for-the-badge)
 
 
 -----------------------
