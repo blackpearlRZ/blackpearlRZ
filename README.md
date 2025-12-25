@@ -44,6 +44,4 @@ HTML • CSS • MySQL
 
 ---
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=blackpearlRZ&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/blackpearlRz?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) |
-
-|:-:|:-:|
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=blackpearlRZ&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/blackpearlRz?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&hide_border=true&theme=dark)](https://github.com/blackpearlRZ?tab=repositories) ||:-:|:-:|
