@@ -1,8 +1,8 @@
   <div align="center" style="display:flex">
      <a href="https://git.io/typing-svg" style="display:block;">
-      <img style="width: 300px" src="/transparent_gitgif.gif" alt="Typing SVG" style="display:flex;" />
+      <img style="width: 300px" src="/transparent_gitgif.gif" alt="Typing SVG" style="display:block;" />
     </a>
-   <b style="display:flex;" >Hi, I’m Chaimae Aafif, a software engineering graduate. I completed my studies at ALX Africa, powered by Holberton School, and at ISTA Hay Riad, where I gained hands-on experience building projects and solving real-world problems. I’m passionate about learning, creating, and contributing to meaningful projects, always aiming to grow as a developer and make an impact.🚀</b>
+   <b >Hi, I’m Chaimae Aafif, a software engineering graduate. I completed my studies at ALX Africa, powered by Holberton School, and at ISTA Hay Riad, where I gained hands-on experience building projects and solving real-world problems. I’m passionate about learning, creating, and contributing to meaningful projects, always aiming to grow as a developer and make an impact.🚀</b>
   </div>
 
  ## TOOLS & TECHNOLOGY
