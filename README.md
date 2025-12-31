@@ -1,7 +1,9 @@
-  <div align="center">
-      <a href="https://git.io/typing-svg" style="display:block;">
-      <img style="width: 100px" src="/transparent_gitgif.gif" alt="Typing SVG" style="display:block;" />
+  <div align="center" style="display:flex">
+   <b>*Hi, I’m Chaimae Aafif, a software engineering graduate. I completed my studies at ALX Africa, powered by Holberton School, and at ISTA Hay Riad, where I gained hands-on experience building projects and solving real-world problems. I’m passionate about learning, creating, and contributing to meaningful projects, always aiming to grow as a developer and make an impact.🚀*</b>
+    <a href="https://git.io/typing-svg" style="display:block;">
+      <img style="width: 300px" src="/transparent_gitgif.gif" alt="Typing SVG" style="display:block;" />
     </a>
+
   </div>
 
   ## ABOUT ME
@@ -24,6 +26,5 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
   </div>
 </div>
