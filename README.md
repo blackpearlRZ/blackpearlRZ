@@ -1,7 +1,6 @@
   <div align="center">
-    <a href="https://git.io/typing-svg" style="display:block;">
-      <img style="width: 300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F3ZG9paXIwNXR3c3JvcWMwOWszY2c3ZXRzYmcwbmNoaHpvbm9mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcPAarmcMy34NQJG3H/giphy.gif"
-           alt="Typing SVG" style="display:block;" />
+      <a href="https://git.io/typing-svg" style="display:block;">
+      <img style="width: 100px" src="/transparent_gitgif.gif" alt="Typing SVG" style="display:block;" />
     </a>
   </div>
 
@@ -25,6 +24,6 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    
+
   </div>
 </div>
