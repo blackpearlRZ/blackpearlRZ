@@ -11,9 +11,9 @@
     </a>
 </div>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
-<img height="2em" width='2rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />          
+<img height="10rem" width='10rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />          
        
 
 ## ⚙️ &nbsp;GitHub Analytics
