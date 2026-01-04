@@ -40,3 +40,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blackpearlRZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blackpearlRZ&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<p align="center">
+	<img alt="blackpearlRZ's visitors" src="https://komarev.com/ghpvc/?username=blackpearlRZ&color=8c36db&style=flat&label=visitors" />
+	<img alt="blackpearlRZ's followers" src="https://img.shields.io/github/followers/blackpearlRZ?color=blueviolet" />
+	<img alt="blackpearlRZ's stars" src="https://img.shields.io/github/stars/blackpearlRZ?color=blueviolet" />
+</p>
