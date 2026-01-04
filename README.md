@@ -7,7 +7,7 @@
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=blackpearlRZ&theme=flat" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=blackpearlRZ&column=7&margin-w=15&margin-h=15" alt="TROPHY" />
     </a>
 </div>
 
