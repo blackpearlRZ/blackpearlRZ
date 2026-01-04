@@ -12,7 +12,7 @@
 </div>
 
 ## 🛠 &nbsp;Tech Stack
-
+<div display='flex'>
 <img height="70rem" width='70rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />          
 <img height="70rem" width='70rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img height="70rem" width='70rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
@@ -30,10 +30,7 @@
 <img height="70rem" width='70rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img height="70rem" width='70rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="70rem" width='70rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-          
-          
-                    
-      
+</div>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
