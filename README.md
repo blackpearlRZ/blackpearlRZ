@@ -13,7 +13,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<img height="10rem" width='10rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />          
+<img height="80rem" width='80rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />          
        
 
 ## ⚙️ &nbsp;GitHub Analytics
